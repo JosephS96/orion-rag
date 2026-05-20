@@ -1,0 +1,23 @@
+The International Space Station: Overview
+
+The International Space Station (ISS) is a modular space station orbiting Earth in low Earth orbit, approximately 400 kilometers above the surface. It represents an unprecedented collaboration among five space agencies: NASA (United States), Roscosmos (Russia), the European Space Agency, JAXA (Japan), and the Canadian Space Agency.
+
+Key Characteristics
+
+The station measures 109 meters in length with solar arrays extending 73 meters wide, comparable in size to "a full-sized football or soccer field." Its pressurized internal volume equals approximately a Boeing 747 airliner. Orbiting at 7.67 kilometers per second, the ISS completes roughly 15.5 orbits daily, maintaining a 51.64-degree orbital inclination that allows it to pass over most populated regions of Earth.
+
+Historical Development
+
+The ISS emerged from Cold War-era proposals, combining elements of the U.S. Space Station Freedom and the Soviet Mir-2 station. Construction began in November 1998 when the Russian Zarya module launched. The first crewed expedition arrived in November 2000, establishing the longest continuous presence of humans in space that continues today—over 25 years of continuous habitation.
+
+Research and Purpose
+
+The station serves multiple functions: conducting microgravity research in fields ranging from materials science to astrobiology, testing technologies for deep space exploration, and providing educational opportunities. Notable experiments include the Alpha Magnetic Spectrometer, which searches for dark matter, and various biological studies examining how extended weightlessness affects human physiology.
+
+International Cooperation
+
+The ISS represents the most politically and legally complex space exploration program in history, involving frameworks established through the 1998 Space Station Intergovernmental Agreement and subsequent accords governing jurisdiction and operational protocols.
+
+Future Operations
+
+Current plans anticipate operations through 2030, with eventual de-orbiting planned using specialized vehicles, though congressional support has emerged for maintaining the station in a higher, more stable orbit.

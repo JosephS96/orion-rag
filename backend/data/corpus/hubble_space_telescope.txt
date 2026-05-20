@@ -1,0 +1,45 @@
+The Hubble Space Telescope: A Comprehensive Overview
+
+Introduction and Mission
+
+The Hubble Space Telescope represents one of humanity's most significant achievements in space-based astronomy. Launched into low Earth orbit on April 24, 1990, aboard Space Shuttle Discovery, this remarkable instrument continues operating decades later as a vital research tool and public relations ambassador for astronomy.
+
+Named after astronomer Edwin Hubble, who confirmed the universe's expansion, the telescope features a 2.4-meter mirror and observes across ultraviolet, visible, and near-infrared wavelengths. Its orbit outside Earth's atmosphere enables capture of extraordinarily detailed images with minimal background light interference compared to ground-based facilities.
+
+Historical Development
+
+The concept of space-based telescopes dates back to 1946 when astronomer Lyman Spitzer published "Astronomical advantages of an extraterrestrial observatory." Spitzer identified two critical advantages: achieving higher angular resolution without atmospheric distortion and observing infrared and ultraviolet light otherwise blocked by Earth's atmosphere.
+
+Nancy Grace Roman, known as the "Mother of Hubble," played a crucial advocacy role throughout the project's development, particularly during funding challenges in the 1970s. When NASA nearly eliminated funding entirely in 1977, Roman and the broader astronomical community mobilized support that proved instrumental in securing continued resources.
+
+Construction and Technical Specifications
+
+The project faced substantial organizational complexity. Marshall Space Flight Center oversaw design and construction, while Perkin-Elmer manufactured the optical telescope assembly. Lockheed constructed the spacecraft housing. The mirror required polishing to extraordinary precision—approximately 10 nanometers accuracy, roughly 1/65 the wavelength of red light.
+
+The Space Telescope Science Institute in Baltimore manages scientific operations and target selection. A sophisticated pointing control system employs magnetic sensors, optical sensors, six gyroscopes, reaction wheels, and magnetic torquers to maintain precise telescope orientation.
+
+The Mirror Flaw and Correction
+
+Tragically, within weeks of launch, engineers discovered the primary mirror contained spherical aberration—the outer perimeter was too flat by approximately 2,200 nanometers. This manufacturing defect severely compromised image quality, spreading starlight across an area far larger than designed specifications.
+
+Analysis traced the error to an incorrectly assembled reflective null corrector (a testing device), with one lens displaced by 1.3 millimeters. Though Perkin-Elmer had performed tests using conventional correctors that identified this aberration, those results were dismissed as less reliable than the flawed reflective corrector.
+
+Rather than attempting the impossible task of mirror replacement in orbit, engineers designed corrective optics operating like "spectacles" for the telescope. The Wide Field and Planetary Camera 2 incorporated internal corrections through relay mirrors, while the COSTAR system provided external correction for other instruments.
+
+Servicing Missions and Upgrades
+
+Hubble's design incorporated provisions for regular servicing by astronauts—a revolutionary capability. Five servicing missions occurred between 1993 and 2009, each representing complex orbital operations involving multiple spacewalks.
+
+Servicing Mission 1 (December 1993) installed COSTAR and replaced the original Wide Field and Planetary Camera with an improved version featuring built-in optical correction. This mission restored the telescope to operational capability and vindicated the servicing concept.
+
+Subsequent missions replaced aging instruments and added advanced capabilities. By 2002, new instruments with integrated corrections eliminated the need for COSTAR. The final servicing mission in May 2009 installed Wide Field Camera 3, significantly enhancing the telescope's observational depth and spectral coverage.
+
+Scientific Impact and Discoveries
+
+Hubble has generated transformative findings across astrophysics. Observations measuring the universe's expansion rate refined estimates of cosmic age and supported theories regarding dark energy. Investigations of galactic centers revealed evidence for supermassive black holes. The telescope captured detailed visible-wavelength images enabling deep cosmic surveys previously impossible.
+
+Current Operations and Future
+
+The Space Telescope Science Institute selects observation targets while navigating complex scheduling constraints. Hubble orbits at approximately 540 kilometers altitude with an inclination of 28.5 degrees. Currently, four active instruments operate: the Advanced Camera for Surveys, Cosmic Origins Spectrograph, Space Telescope Imaging Spectrograph, and Wide Field Camera 3.
+
+Estimates suggest operational viability extending through the 2030s. The James Webb Space Telescope, launched December 2021, provides complementary infrared observations. Total project costs reached approximately $11.3 billion in 2015 dollars, including all servicing expenses, establishing Hubble as NASA's most expensive science mission.

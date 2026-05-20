@@ -1,0 +1,25 @@
+Saturn V: America's Moon Rocket
+
+The Saturn V was a retired American super heavy-lift launch vehicle developed by NASA for the Apollo program. This three-stage, liquid-fueled rocket remains one of the most powerful vehicles ever successfully flown.
+
+Overview and Specifications
+
+Standing 363 feet tall with a diameter of 33 feet, the Saturn V could deliver approximately 140,000 kilograms to low Earth orbit and 43,500 kilograms to the Moon. The rocket's total mass ranged from 2.8 to 3.0 million kilograms when fully fueled. Its four F-1 engines on the first stage produced an enormous 33,000 kilonewtons of thrust at sea level—so powerful that their combined roar shattered windows 15 miles away during testing.
+
+Development and Design
+
+Under the direction of Wernher von Braun at Marshall Space Flight Center in Huntsville, Alabama, the Saturn V evolved from earlier Jupiter rockets. NASA approved construction of the C-5 design on January 25, 1962, officially designating it the Saturn V in February 1963. The rocket featured an innovative "all-up" testing approach, where complete versions of all three stages flew together from the start, reducing the number of test flights needed before human missions.
+
+Manufacturing and Assembly
+
+Major contractors included Boeing (first stage), North American Aviation (second stage), Douglas Aircraft Company (third stage), and IBM (instrument unit). The stages were so massive that barges transported them to Kennedy Space Center, except for the third stage, which traveled by the Aero Spacelines Super Guppy aircraft. At the Vehicle Assembly Building, technicians stacked the stages vertically and transported the complete rocket on the Crawler Transporter to the launch pad.
+
+Operational History
+
+Between 1967 and 1973, thirteen Saturn V missions launched from Kennedy Space Center's Launch Complex 39. Nine crewed missions carried 24 astronauts to the Moon from Apollo 8 through Apollo 17. The rocket achieved twelve complete successes, with one partial failure during Apollo 6 when J-2 engine problems prevented third-stage restart. The final Saturn V launched Skylab, America's first space station, in May 1973.
+
+Technical Achievement
+
+The Saturn V represented a remarkable engineering accomplishment. Its three stages used different fuel combinations optimized for each phase: the first stage burned RP-1 kerosene with liquid oxygen, while the upper stages burned liquid hydrogen with liquid oxygen for greater specific energy. This design allowed the rocket to achieve the trans-lunar injection necessary for Moon missions while maintaining efficiency throughout the launch sequence.
+
+The development cost totaled $6.4 billion (equivalent to $34.5 billion in 2024), making it one of history's most expensive technological endeavors. Individual mission costs averaged $185 million per launch.

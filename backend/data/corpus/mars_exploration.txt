@@ -1,0 +1,17 @@
+Exploration of Mars
+
+Mars has been explored remotely by spacecraft since the late 20th century. These unmanned probes have significantly expanded our understanding of the planet's geology and potential habitability. However, Mars exploration has proven challenging, with roughly 60% of all spacecraft missions experiencing failure before completing their objectives.
+
+Current Status
+
+Two operational rovers currently traverse Mars's surface: NASA's Curiosity and Perseverance rovers. Perseverance was accompanied by the Ingenuity helicopter, which completed its mission in 2024. China's Zhurong rover, part of the Tianwen-1 mission, entered hibernation in May 2022 and remains inactive. Six orbiters survey the planet, including Mars Odyssey, Mars Express, Mars Reconnaissance Orbiter, the Trace Gas Orbiter, Hope Mars Mission, and Tianwen-1.
+
+Historical Missions
+
+The Soviet Union initiated Mars exploration in 1960, though early attempts failed. NASA's Mariner 4 achieved the first successful flyby on July 14, 1965, revealing impact craters and providing critical atmospheric data. Mariner 9 became the first spacecraft to orbit another planet in 1971. The Viking program's two landers successfully touched down in 1976, transmitting the first color panoramas from Mars's surface and conducting biological experiments.
+
+The Mars Pathfinder mission in 1997 deployed Sojourner, the first rover to operate on Mars. Subsequent missions like Mars Global Surveyor and Mars Odyssey discovered evidence of water ice and mapped the planet extensively. The Mars Exploration Rovers Spirit and Opportunity, launched in 2004, far exceeded their operational expectations, with Opportunity functioning for over a decade.
+
+Future Exploration
+
+Current missions include Mars 2020's Perseverance rover, which employs nuclear power for extended operations. Future endeavors include ESA's Rosalind Franklin rover and China's Tianwen-3 sample return mission, scheduled for the late 2020s. Human missions to Mars remain under development by NASA, SpaceX, and other organizations, with proposed timelines ranging from the 2030s to 2040s.

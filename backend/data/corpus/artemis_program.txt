@@ -1,0 +1,41 @@
+The Artemis Program: NASA's Return to the Moon
+
+Overview
+
+The Artemis program represents NASA's ambitious effort to return humans to the Moon for the first time since the Apollo program ended in 1972. Formally established through Space Policy Directive-1 in 2017, the program aims to establish a permanent lunar base and eventually support human missions to Mars.
+
+The program leverages both legacy hardware and new technologies. It incorporates Space Shuttle-derived systems such as the Space Launch System (SLS) rocket and components from the canceled Constellation program, including the Orion spacecraft. Private spaceflight companies are developing additional elements, particularly the Human Landing System lunar landers.
+
+Program Structure
+
+Artemis missions are organized in increasing complexity, spaced approximately one year apart. The core infrastructure consists of three main elements: the SLS launch vehicle, the Orion spacecraft, and the Human Landing System. Supporting programs include Commercial Lunar Payload Services, the Artemis Accords (a framework for international cooperation), and Exploration Ground Systems for launch infrastructure.
+
+Key Missions
+
+Artemis I (November 2022): An uncrewed test flight that successfully sent the Orion spacecraft into lunar orbit and returned it to Earth, traveling over 2.3 million kilometers.
+
+Artemis II (April 2026): The program's first crewed mission, carrying four astronauts on a lunar flyby. The crew achieved the greatest human distance from Earth at approximately 406,771 kilometers, surpassing Apollo 13's record.
+
+Artemis III (Late 2027): Originally planned as the first crewed lunar landing, this mission has been revised to test rendezvous and docking operations with commercial lunar landers in Earth orbit.
+
+Artemis IV (Early 2028): Now designated as the first crewed lunar landing since Apollo 17, this mission will involve astronauts transferring to a commercial lander for surface operations.
+
+Artemis V (Late 2028): The second lunar landing, during which NASA plans to begin constructing the permanent lunar base.
+
+Launch Vehicles and Hardware
+
+The Space Launch System is the primary launch vehicle for crewed Artemis missions, carrying the Orion spacecraft. The SLS produces 39 meganewtons of liftoff thrust, making it the most powerful rocket to carry humans. However, its trans-lunar payload capacity of 27 metric tons is roughly half that of the Saturn V.
+
+SpaceX's Starship, developed as the Starship HLS variant, will serve as the lunar lander for crewed missions. Blue Origin's Blue Moon represents an alternative lander option. Commercial launch vehicles like the Falcon Heavy support additional mission components.
+
+Surface Operations and Base Development
+
+The Artemis Base Camp, planned for the lunar south pole region near Shackleton crater, will consist of a Surface Habitat for crew quarters, a Lunar Terrain Vehicle for local transportation, and Pressurized Rovers for longer-range exploration.
+
+International Cooperation
+
+The Artemis Accords establish principles for peaceful space exploration through bilateral agreements between the United States and partner nations. As of May 2026, sixty-seven countries have signed the accords.
+
+Challenges and Evolution
+
+The program has experienced significant evolution since its inception. Mission timelines have shifted multiple times, with the original 2024 lunar landing goal proving unrealistic due to budget constraints and technical challenges. Cost estimates have grown substantially, with a 2021 NASA audit estimating the true program cost at approximately $93 billion through 2025.

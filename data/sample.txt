@@ -1,0 +1,2 @@
+This is a sample knowledge document.
+Feel free to replace it with any information you want the RAG system to index.

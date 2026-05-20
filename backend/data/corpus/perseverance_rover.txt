@@ -1,0 +1,31 @@
+Perseverance Rover: NASA's Mars Explorer
+
+The Perseverance rover is a NASA robotic explorer that has been studying Mars since its February 2021 landing in Jezero Crater. Built and managed by the Jet Propulsion Laboratory, the rover launched from Cape Canaveral in July 2020 aboard an Atlas V rocket.
+
+Mission Goals
+
+The rover pursues four primary scientific objectives. It searches for signs of ancient microbial life in environments that could have supported it. The rover also collects rock and soil samples cached for potential future return to Earth. Additionally, Perseverance tests technologies for eventual human exploration, including an experiment that successfully produced oxygen from the Martian atmosphere.
+
+Key Features and Instruments
+
+Perseverance carries seven main scientific instruments, 19 cameras, and two microphones—making it the first rover with working audio recording capability on Mars. The rover measures 2.9 meters long and weighs 1,025 kilograms. Its wheels are more robust than those on its predecessor Curiosity, featuring thicker aluminum construction.
+
+The rover's power source is a radioisotope thermoelectric generator using plutonium-238, providing approximately 110 watts at launch. This design allows operations during dust storms and Martian nights, unlike solar-powered alternatives.
+
+The Ingenuity Helicopter
+
+Perseverance carried the experimental Ingenuity helicopter, which achieved the first powered flight on another planet in April 2021. Originally designed for five test flights, Ingenuity far exceeded expectations, completing 72 flights before being retired in January 2024.
+
+Scientific Discoveries
+
+As of 2025, the mission has revealed significant findings about Jezero Crater's geology. Researchers discovered igneous rocks showing water interaction, challenging earlier assumptions that all crater rocks were sedimentary. The rover identified the "Wildcat Ridge" rock formation as evidence of ancient lake environments suitable for microbial life.
+
+In July 2024, Perseverance discovered a rock nicknamed "Cheyava Falls" containing distinctive patterns potentially indicating past biological activity, though further analysis continues.
+
+Sample Collection
+
+The rover has collected 33 of 43 planned samples, including igneous rocks, sedimentary samples, and regolith. These samples support the broader Mars Sample Return initiative, though NASA announced in 2023 that the $11 billion retrieval mission required redesign for fiscal feasibility.
+
+Notable Details
+
+The rover's parachute contained an encoded message—"Dare mighty things"—hidden in its color pattern. Additionally, 10.9 million names from a public campaign were etched onto silicon chips aboard the rover. The mission cost NASA approximately $2.75 billion over eleven years.

@@ -1,0 +1,37 @@
+Apollo 13: The Successful Failure
+
+Apollo 13 stands as one of the most dramatic moments in space exploration history. Launched on April 11, 1970, this crewed lunar mission became a near-catastrophic emergency that ultimately showcased human ingenuity and teamwork.
+
+The Mission and Crew
+
+Commander Jim Lovell, command module pilot Jack Swigert, and lunar module pilot Fred Haise were tasked with landing near Fra Mauro crater on the Moon. Swigert had been a last-minute replacement for Ken Mattingly, who was grounded after exposure to rubella. The three-person crew had undergone over 1,000 hours of mission-specific training.
+
+The Accident
+
+About 56 hours into the mission, disaster struck. As requested by Mission Control to check an oxygen tank reading, Swigert activated the stirring fans in Oxygen Tank 2. The tank contained damaged Teflon insulation on wires connected to the fan motor. When activated, these wires short-circuited and ignited the insulation. As investigators later determined, the insulation damage likely occurred during pre-launch ground testing when technicians used excessive heat to empty the tank.
+
+The resulting explosion vented the tank's contents into space.
+
+Turning Crisis into Survival
+
+With the service module crippled, Mission Control made a pivotal decision: the astronauts would use the lunar module as a lifeboat. This scenario had been anticipated during training but was considered unlikely. The LM, designed to support two men for two days on the lunar surface, now had to sustain three astronauts for four days.
+
+One critical challenge involved removing carbon dioxide. The lunar module's lithium hydroxide canisters were incompatible with the command module's system. Engineers improvised a solution using materials available onboard—plastic covers, duct tape, and other supplies—creating what NASA called "the mailbox." This improvisation worked immediately, with carbon dioxide levels dropping as soon as it was installed.
+
+The crew faced additional hardships: the spacecraft temperature dropped to 3°C (38°F), drinking water was rationed to 200 milliliters per person daily, and the astronauts stored their urine in bags to avoid disturbing the spacecraft's trajectory. Haise developed a urinary tract infection from dehydration, though all three astronauts remained in relatively good condition.
+
+The Return
+
+Mission Control calculated a course correction using the lunar module's descent engine. Lovell manually transferred guidance information from the command module's computer to the lunar module's system through hand calculations, which Mission Control verified. Two additional course corrections ensured the spacecraft would splash down in the Pacific Ocean near recovery forces.
+
+The reentry posed another concern: the shallow trajectory extended the communications blackout from the expected four minutes to six minutes, leading controllers to fear the heat shield had failed. When Odyssey regained contact, relief swept through Mission Control.
+
+Public Impact and Legacy
+
+The crisis captured worldwide attention. An estimated 40 million Americans watched the splashdown live, with another 30 million viewing portions of the broadcast. Pope Paul VI led prayers for the crew's safe return.
+
+The incident has been repeatedly described as "NASA's finest hour," demonstrating what the agency could accomplish under pressure. Lovell himself called it a "successful failure."
+
+Investigation and Changes
+
+The review board determined that thermostatic switches in Oxygen Tank 2 had failed because they were not rated for the 65-volt power supply used during ground testing. For Apollo 14 and subsequent missions, NASA made substantial improvements: upgraded thermostats, removal of the stirring fans (replaced with a third oxygen tank for redundancy), all-stainless steel wiring in critical bays, and enhanced monitoring systems.

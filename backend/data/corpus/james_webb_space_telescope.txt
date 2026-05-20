@@ -1,0 +1,23 @@
+James Webb Space Telescope: Overview
+
+The James Webb Space Telescope (JWST) represents a major advancement in space-based astronomy. Launched on December 25, 2021, it orbits near the Sun-Earth L2 Lagrange point, approximately 1.5 million kilometers from Earth.
+
+Key Specifications
+
+JWST features a 6.5-meter primary mirror composed of 18 hexagonal gold-coated beryllium segments, providing a light-collecting area roughly six times larger than Hubble's. The telescope operates in the infrared spectrum (0.6–28.5 micrometers), enabling observations of objects too distant, faint, or old for Hubble to detect.
+
+Design and Innovation
+
+The telescope's design emphasizes several critical features. Its five-layer sunshield maintains temperatures below 50 Kelvin, preventing the telescope's own infrared emissions from interfering with observations. The segmented mirror design allows the instrument to fit within the Ariane 5 rocket's payload fairing while providing unprecedented collecting capability.
+
+Scientific Capabilities
+
+JWST's four primary mission goals include detecting light from the first stars and galaxies, studying galaxy formation, understanding star and planet formation, and investigating exoplanet atmospheres for potential biosignatures. The first public images were released July 11, 2022.
+
+Development Challenges
+
+The project faced substantial cost overruns and delays. Initial estimates of $1 billion expanded to nearly $10 billion, with launch dates repeatedly postponed. Construction completed in 2016, followed by extensive testing at Northrop Grumman facilities in California.
+
+International Partnership
+
+The project represents collaboration among NASA, the European Space Agency, and the Canadian Space Agency, with contributions from 258 organizations across 15 countries.

@@ -1,0 +1,23 @@
+Falcon 9: SpaceX's Revolutionary Launch Vehicle
+
+Falcon 9 is a partially reusable, two-stage orbital rocket manufactured by SpaceX. Since its inaugural flight on June 4, 2010, it has become one of the most frequently launched rockets globally and achieved a remarkable success rate of 99.5% through May 2026, with 636 successful missions among 639 total launches.
+
+Key Capabilities and Design
+
+The rocket stands 69.8 meters tall and measures 3.7 meters in diameter. Its two stages are powered by SpaceX Merlin engines using liquid oxygen and rocket-grade kerosene as propellants. The first stage features nine engines arranged in an "Octaweb" configuration, while the second stage uses a single vacuum-optimized engine.
+
+The Full Thrust variant can deliver approximately 22,800 kilograms to low Earth orbit in expendable mode, or 17,500 kilograms when landing the booster for reuse. In geostationary transfer orbit, it carries 8,300 kilograms expended or 5,500 kilograms with booster recovery.
+
+Reusability Achievements
+
+Falcon 9's first stage can execute vertical landings on either ground pads or autonomous drone ships. As of May 2026, SpaceX achieved 596 successful booster landings out of 607 attempts. The record stands at a single booster completing 34 flights. Payload fairings equipped with parachutes are also recovered and reused, significantly reducing launch costs.
+
+Operational Variants
+
+Five major versions have flown: v1.0 (2010–2013), v1.1 (2013–2016), Full Thrust (2015 onward), Block 4, and Block 5 (operational since May 2018). The current Block 5 variant features enhanced thrust and improved reusability features.
+
+Commercial Impact
+
+Launch costs have declined substantially—from approximately $49.9–56 million in 2010 to $74 million in 2026 for commercial customers. SpaceX's internal costs are estimated between $15–28 million per launch. This pricing advantage has prompted competitors including Arianespace, ULA, and Chinese manufacturers to develop competing reusable vehicles.
+
+The rocket operates from three active U.S. launch sites: Cape Canaveral SLC-40, Vandenberg SLC-4E, and Kennedy LC-39A. SpaceX also operates rideshare programs called Transporter and Bandwagon, offering affordable small-satellite deployment services.
