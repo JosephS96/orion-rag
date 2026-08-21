@@ -9,8 +9,10 @@ Currently implemented:
 | Eval | File | What it measures |
 |---|---|---|
 | Retrieval quality | `retrieval_eval.py` | Does `retrieve()` surface the right source document for a known question, and how highly does it rank it? |
+| Answer correctness & faithfulness | `answer_eval.py` | Does the full pipeline's generated answer state the right fact, and does it only assert things the retrieved sources actually support? |
 
-The golden question set both evals draw from lives in `golden_qa.py`.
+The golden question set both evals draw from lives in `golden_qa.py`. The
+LLM-judge helper shared by the answer-quality checks lives in `judge.py`.
 
 ---
 
@@ -31,9 +33,9 @@ GoldenQA(
 
 - **`expected_source`** is the ground truth the retrieval eval checks against — it
   must match `RetrievedChunk.source`, i.e. the corpus filename.
-- **`expected_answer`** isn't used by the retrieval eval. It's there so a future
-  answer-correctness / faithfulness eval (see Roadmap) can reuse this same set
-  instead of needing a second labeled dataset.
+- **`expected_answer`** isn't used by the retrieval eval — it's the reference
+  fact `answer_eval.py` checks generated answers against, so both evals share
+  one labeled dataset instead of needing two.
 - **`confusable`** flags ~a dozen questions written to be hard on purpose — they
   ask about a document that shares topic or entities with a sibling document
   (Apollo 11 vs. Apollo 13 vs. the Apollo program; Hubble vs. JWST; NASA's
@@ -142,17 +144,93 @@ Roadmap).
 
 ---
 
+## Answer correctness & faithfulness eval (`answer_eval.py`)
+
+Runs the full Simple RAG pipeline (`run_simple_rag` — retrieve *and* generate)
+for every golden question, then uses an LLM judge to score two independent
+things about the generated answer:
+
+**Answer Accuracy** — does the generated answer correctly convey
+`expected_answer`'s key fact? This needs ground truth, so it's checked against
+the golden set's reference answer.
+
+**Faithfulness** — does the generated answer only assert things the retrieved
+chunks actually support? This is reference-free: it's judged only against the
+sources `retrieve()` returned for that question, not against
+`expected_answer`. An answer can be faithful and still wrong (an accurate
+summary of chunks retrieval got wrong), and it can be unfaithful despite
+perfect retrieval (the LLM embellishes past what the sources say). Keeping
+these as two separate scores, instead of one blended "quality" number, is
+what tells you whether a bad result traces back to retrieval or to
+generation.
+
+Both are scored by a second LLM call (an "LLM-as-judge"): the judge is given
+the question, the reference answer or the sources, and the generated answer,
+and asked to respond with a one-word verdict (`CORRECT`/`INCORRECT` or
+`FAITHFUL`/`UNFAITHFUL`) plus a one-line rationale. `judge.py` parses that
+verdict with word-boundary matching rather than a plain substring check —
+`INCORRECT` contains `CORRECT` as a substring, so a naive check would
+misclassify a compliant negative response as positive. A judge response that
+doesn't follow the one-word-first-line format at all is reported as
+`unknown` rather than silently guessed at.
+
+### Running it
+
+Makes real LLM calls — one generation plus up to two judge calls per
+question — so it costs API credits and needs a configured provider (see
+`backend/config/settings.py` / `.env`). Requires the bundled corpus to already
+be indexed, same as `retrieval_eval.py`.
+
+```bash
+# from the repo root
+python -m backend.evals.answer_eval --provider anthropic
+
+# use a different (ideally stronger, or at least different) model to judge
+# than the one being evaluated, to reduce self-preference bias
+python -m backend.evals.answer_eval --provider anthropic --judge-provider openai
+
+# quick/cheap smoke run over just the first N questions
+python -m backend.evals.answer_eval --provider anthropic --limit 10
+```
+
+### Reading the output
+
+Illustrative example:
+
+```
+Question                                                              Correct    Faithful
+--------------------------------------------------------------------------------------------
+What was the name of the lunar module that Apollo 11 used to land...  CORRECT    FAITHFUL
+...
+
+--- Summary (n=45) ---
+Answer Accuracy: 41/45 (91.1%)
+Faithfulness:    43/45 (95.6%)
+
+--- 4 incorrect answers ---
+  Q: ...
+     expected: Eagle
+     got: The lunar module was named Columbia...
+     judge: Names the command module, not the lunar module.
+
+--- 2 unfaithful answers ---
+  Q: ...
+     unsupported claim(s): States the mission launched in 1979; sources say 1977.
+```
+
+As with retrieval, there's no enforced pass/fail threshold — read the
+incorrect/unfaithful breakdowns, since they name the specific claim that was
+wrong or unsupported, which is far more actionable than the summary
+percentage alone.
+
+---
+
 ## Roadmap
 
 Not yet implemented, but designed for using this same golden set:
 
-- **Answer correctness** — using `expected_answer`, judge whether the full
-  RAG pipeline's generated answer (not just retrieval) actually contains the
-  right fact.
-- **Faithfulness / groundedness** — check whether the generated answer only
-  asserts things supported by the retrieved chunks (catches hallucination).
 - **Deep Research evals** — decomposition quality, and whether the reflect
   step's confidence score actually correlates with answer correctness.
-- **CI integration** — run the retrieval eval on every PR with a minimum
-  Hit Rate@5 / MRR threshold, so a regression in chunking or embeddings fails
-  the build instead of shipping silently.
+- **CI integration** — run the retrieval eval (cheap, no LLM cost) on every
+  PR with a minimum Hit Rate@5 / MRR threshold; run the answer-quality eval
+  less frequently given its API cost, e.g. nightly or pre-release.
